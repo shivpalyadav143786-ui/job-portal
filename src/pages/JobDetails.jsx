@@ -24,7 +24,7 @@ function JobDetails() {
 
     useEffect(() => {
 
-        fetch(`http://localhost:3000/jobs/${id}`)
+        fetch(`https://job-portal-r4b6.onrender.com/jobs/${id}`)
             .then(res => {
 
                 if (!res.ok) {

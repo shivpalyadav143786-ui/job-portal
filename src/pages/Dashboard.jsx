@@ -17,7 +17,7 @@ function Dashboard() {
 
     useEffect(() => {
 
-        fetch("http://localhost:3000/jobs")
+        fetch("https://job-portal-r4b6.onrender.com/jobs")
             .then(res => {
                 if (!res.ok) throw new Error("Failed to fetch jobs")
                 return res.json()
@@ -31,7 +31,7 @@ function Dashboard() {
                 setLoading(false)
             })
 
-        fetch("http://localhost:3000/candidates")
+                fetch("https://job-portal-r4b6.onrender.com/candidates")
             .then(res => res.json())
             .then(data => setCandidates(data))
 
@@ -40,7 +40,7 @@ function Dashboard() {
 
     function handleStatusChange(id, status) {
 
-        fetch(`http://localhost:3000/jobs/${id}`, {
+      fetch(`https://job-portal-r4b6.onrender.com/jobs/${id}`, {
             method: "PATCH",
             headers: {
                 "Content-Type": "application/json"

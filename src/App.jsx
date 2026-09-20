@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom"
+import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom"
 import Login from "./pages/Login"
 import Dashboard from "./pages/Dashboard"
 import ProtectedRoute from "./components/ProtectedRoute"
@@ -9,9 +9,9 @@ import Profile from "./pages/Profile"
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/job-portal">
       <Routes>
-
+        <Route path="/" element={<Navigate to="/login" replace />} />
         <Route path="/login" element={<Login />} />
 
         <Route path="/dashboard" element={<ProtectedRoute>

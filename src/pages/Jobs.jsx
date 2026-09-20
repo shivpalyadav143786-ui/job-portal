@@ -18,7 +18,7 @@ function Jobs() {
     // Fetch jobs
     useEffect(() => {
 
-        fetch("http://localhost:3000/jobs")
+        fetch("https://job-portal-r4b6.onrender.com/jobs")
             .then(res => {
 
                 if (!res.ok) {
@@ -42,7 +42,7 @@ function Jobs() {
     // Change job status
     function handleStatusChange(id, newStatus) {
 
-        fetch(`http://localhost:3000/jobs/${id}`, {
+       fetch(`https://job-portal-r4b6.onrender.com/jobs/${id}`, {
             method: "PATCH",
             headers: {
                 "Content-Type": "application/json"

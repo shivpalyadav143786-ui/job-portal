@@ -13,7 +13,7 @@ function Candidates() {
     // Update candidate status
     function handleStatusChange(id, status) {
 
-        fetch(`http://localhost:3000/candidates/${id}`, {
+fetch(`https://job-portal-r4b6.onrender.com/candidates/${id}`, {
             method: "PATCH",
             headers: {
                 "Content-Type": "application/json"
@@ -47,7 +47,7 @@ function Candidates() {
     // Fetch candidates
     useEffect(() => {
 
-        fetch("http://localhost:3000/candidates")
+       fetch("https://job-portal-r4b6.onrender.com/candidates")
             .then((response) => {
 
                 if (!response.ok) {

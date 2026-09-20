@@ -1,0 +1,394 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions",
+      "location": "Mumbai",
+      "salary": "₹5 LPA",
+      "status": "Active",
+      "description": "We are looking for a frontend developer who can build responsive web applications.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "applications": 12
+    },
+    {
+      "id": "2",
+      "title": "React Developer",
+      "company": "Web Works",
+      "location": "Pune",
+      "salary": "₹6 LPA",
+      "status": "Closed",
+      "description": "We are looking for a React developer to build modern and responsive web applications.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React"
+      ],
+      "applications": 8
+    },
+    {
+      "id": "3",
+      "title": "Backend Developer",
+      "company": "Code Labs",
+      "location": "Bangalore",
+      "salary": "₹7 LPA",
+      "status": "Closed",
+      "description": "We are looking for a backend developer to develop and maintain server-side applications.",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "JavaScript"
+      ],
+      "applications": 15
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "company": "Design Studio",
+      "location": "Mumbai",
+      "salary": "₹4.5 LPA",
+      "status": "Active",
+      "description": "We are looking for a creative UI/UX designer to design modern user experiences.",
+      "skills": [
+        "Figma",
+        "UI Design",
+        "UX Design"
+      ],
+      "applications": 10
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Developer",
+      "company": "Tech World",
+      "location": "Pune",
+      "salary": "₹8 LPA",
+      "status": "Active",
+      "description": "We are looking for a full stack developer to build modern web applications.",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB"
+      ],
+      "applications": 18
+    },
+    {
+      "id": "6",
+      "title": "Java Developer",
+      "company": "Software Labs",
+      "location": "Bangalore",
+      "salary": "₹7 LPA",
+      "status": "Closed",
+      "description": "Develop and maintain enterprise Java applications.",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "applications": 14
+    },
+    {
+      "id": "7",
+      "title": "Python Developer",
+      "company": "Data Systems",
+      "location": "Mumbai",
+      "salary": "₹6.5 LPA",
+      "status": "Active",
+      "description": "Build backend applications and automation tools using Python.",
+      "skills": [
+        "Python",
+        "Django",
+        "SQL"
+      ],
+      "applications": 21
+    },
+    {
+      "id": "8",
+      "title": "Software Tester",
+      "company": "Quality Tech",
+      "location": "Thane",
+      "salary": "₹4 LPA",
+      "status": "Active",
+      "description": "Test web applications and identify software bugs.",
+      "skills": [
+        "Manual Testing",
+        "Selenium",
+        "JIRA"
+      ],
+      "applications": 9
+    },
+    {
+      "id": "9",
+      "title": "DevOps Engineer",
+      "company": "Cloud Systems",
+      "location": "Hyderabad",
+      "salary": "₹9 LPA",
+      "status": "Closed",
+      "description": "Manage cloud infrastructure and deployment pipelines.",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Jenkins"
+      ],
+      "applications": 16
+    },
+    {
+      "id": "10",
+      "title": "Frontend Intern",
+      "company": "Startup Hub",
+      "location": "Mumbai",
+      "salary": "₹2.5 LPA",
+      "status": "Active",
+      "description": "Work with the frontend team to build responsive websites.",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "applications": 25
+    },
+    {
+      "id": "11",
+      "title": "Backend Developer",
+      "company": "Web Technologies",
+      "location": "Pune",
+      "salary": "₹6 LPA",
+      "status": "Active",
+      "description": "Develop APIs and server-side applications.",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB"
+      ],
+      "applications": 13
+    },
+    {
+      "id": "12",
+      "title": "Mobile App Developer",
+      "company": "Mobile Solutions",
+      "location": "Bangalore",
+      "salary": "₹7.5 LPA",
+      "status": "Closed",
+      "description": "Develop and maintain mobile applications.",
+      "skills": [
+        "React Native",
+        "JavaScript",
+        "Android"
+      ],
+      "applications": 11
+    },
+    {
+      "id": "13",
+      "title": "Data Analyst",
+      "company": "Analytics Corp",
+      "location": "Mumbai",
+      "salary": "₹5.5 LPA",
+      "status": "Active",
+      "description": "Analyze business data and create useful reports.",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Python"
+      ],
+      "applications": 19
+    },
+    {
+      "id": "14",
+      "title": "Cloud Engineer",
+      "company": "Cloud Tech",
+      "location": "Pune",
+      "salary": "₹8.5 LPA",
+      "status": "Active",
+      "description": "Manage and maintain cloud infrastructure.",
+      "skills": [
+        "AWS",
+        "Azure",
+        "Linux"
+      ],
+      "applications": 7
+    },
+    {
+      "id": "15",
+      "title": "Graphic Designer",
+      "company": "Creative Works",
+      "location": "Mumbai",
+      "salary": "₹4 LPA",
+      "status": "Closed",
+      "description": "Create graphics and visual content for digital platforms.",
+      "skills": [
+        "Photoshop",
+        "Illustrator",
+        "Figma"
+      ],
+      "applications": 12
+    },
+    {
+      "id": "16",
+      "title": "Product Manager",
+      "company": "Product Labs",
+      "location": "Bangalore",
+      "salary": "₹10 LPA",
+      "status": "Active",
+      "description": "Manage product development and coordinate with engineering teams.",
+      "skills": [
+        "Product Management",
+        "Agile",
+        "JIRA"
+      ],
+      "applications": 20
+    },
+    {
+      "id": "17",
+      "title": "Business Analyst",
+      "company": "Business Solutions",
+      "location": "Mumbai",
+      "salary": "₹6 LPA",
+      "status": "Closed",
+      "description": "Analyze business requirements and work with development teams.",
+      "skills": [
+        "Business Analysis",
+        "SQL",
+        "Excel"
+      ],
+      "applications": 15
+    },
+    {
+      "id": "18",
+      "title": "React Intern",
+      "company": "Frontend Labs",
+      "location": "Pune",
+      "salary": "₹2 LPA",
+      "status": "Closed",
+      "description": "Assist developers in building React applications.",
+      "skills": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
+      "applications": 28
+    },
+    {
+      "id": "19",
+      "title": "System Administrator",
+      "company": "IT Solutions",
+      "location": "Thane",
+      "salary": "₹5 LPA",
+      "status": "Active",
+      "description": "Manage company servers and IT infrastructure.",
+      "skills": [
+        "Linux",
+        "Networking",
+        "Windows Server"
+      ],
+      "applications": 8
+    },
+    {
+      "id": "20",
+      "title": "Cyber Security Analyst",
+      "company": "Secure Tech",
+      "location": "Mumbai",
+      "salary": "₹7 LPA",
+      "status": "Active",
+      "description": "Monitor systems and help protect company infrastructure.",
+      "skills": [
+        "Cyber Security",
+        "Networking",
+        "Linux"
+      ],
+      "applications": 17
+    }
+  ],
+  "candidates": [
+    {
+      "id": "1",
+      "name": "Rahul Sharma",
+      "email": "rahul@example.com",
+      "appliedJob": "Frontend Developer",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "name": "Amit Patel",
+      "email": "amit@example.com",
+      "appliedJob": "React Developer",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "3",
+      "name": "Priya Singh",
+      "email": "priya@example.com",
+      "appliedJob": "Backend Developer",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "4",
+      "name": "Rohit Verma",
+      "email": "rohit@example.com",
+      "appliedJob": "Full Stack Developer",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "5",
+      "name": "Sneha Joshi",
+      "email": "sneha@example.com",
+      "appliedJob": "UI/UX Designer",
+      "status": "Pending"
+    },
+    {
+      "id": "6",
+      "name": "Vikas Kumar",
+      "email": "vikas@example.com",
+      "appliedJob": "Java Developer",
+      "status": "Pending"
+    },
+    {
+      "id": "7",
+      "name": "Neha Shah",
+      "email": "neha@example.com",
+      "appliedJob": "Python Developer",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "8",
+      "name": "Arjun Mehta",
+      "email": "arjun@example.com",
+      "appliedJob": "Software Tester",
+      "status": "Rejected"
+    },
+    {
+      "id": "9",
+      "name": "Pooja Desai",
+      "email": "pooja@example.com",
+      "appliedJob": "Frontend Intern",
+      "status": "Pending"
+    },
+    {
+      "id": "10",
+      "name": "Karan Malhotra",
+      "email": "karan@example.com",
+      "appliedJob": "DevOps Engineer",
+      "status": "Shortlisted"
+    },
+    {
+      "id": "11",
+      "name": "Anjali Gupta",
+      "email": "anjali@example.com",
+      "appliedJob": "Data Analyst",
+      "status": "Pending"
+    },
+    {
+      "id": "12",
+      "name": "Manish Yadav",
+      "email": "manish@example.com",
+      "appliedJob": "Cloud Engineer",
+      "status": "Rejected"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
